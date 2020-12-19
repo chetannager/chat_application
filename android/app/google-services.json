@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1022699712894",
+    "firebase_url": "https://fir-af9c3.firebaseio.com",
+    "project_id": "fir-af9c3",
+    "storage_bucket": "fir-af9c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022699712894:android:58d32497dc9c41da56c32f",
+        "android_client_info": {
+          "package_name": "com.chetan.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022699712894-6pbb7m84grip4iof6g8um65dq84dd04s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhQQ__8ZPpbUi9v2n9MbNQTPMWct1RVbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022699712894-6pbb7m84grip4iof6g8um65dq84dd04s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
